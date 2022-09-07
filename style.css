@@ -71,9 +71,9 @@
   
   .carousel-navigation button{
     font-size: 2rem;
-    border-radius: 50%;
+    border-radius: 20%;
     border: 2px solid black;
-    background-color: yellowgreen;
+    background-color: white;
   }
   
   
